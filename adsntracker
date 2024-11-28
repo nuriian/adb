@@ -9,7 +9,6 @@ server=/api.bugsnag.com/
 server=/sessions.bugsnag.com/
 server=/ads-api.tiktok.com/
 server=/ads-api.twitter.com/
-server=/doubleclick.net/
 server=/saweria.co/
 server=/trakteer.id/
 server=/cutsoussouk.net/
